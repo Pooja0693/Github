@@ -17,13 +17,46 @@
         android:text="@string/t1"
         android:gravity="center"
         android:textSize="40sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello Rumani"
+        android:gravity="center"
+        android:textSize="40sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello Parul"
+        android:gravity="center"
+        android:textSize="40sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello Sanjeev"
+        android:gravity="center"
+        android:textSize="40sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello Umesh"
+        android:gravity="center"
+        android:textSize="40sp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hello Rohit"
+        android:gravity="center"
+        android:textSize="40sp"/>
 
     <TextView
         android:id="@+id/t2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/t2"
-        android:layout_marginTop="370sp"
         android:gravity="center"
         android:textSize="40sp"/>
 
