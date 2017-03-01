@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Github</string>
+    <string name="t2">Hello Pooja!</string>
+    <string name="t1">Hello World!</string>
 </resources>
