@@ -17,6 +17,7 @@
         android:text="@string/t1"
         android:gravity="center"
         android:textSize="40sp"/>
+
     <TextView
         android:id="@+id/t2"
         android:layout_width="match_parent"
@@ -25,4 +26,5 @@
         android:layout_marginTop="370sp"
         android:gravity="center"
         android:textSize="40sp"/>
+
 </LinearLayout>
